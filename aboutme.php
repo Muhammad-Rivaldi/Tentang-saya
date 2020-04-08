@@ -3,5 +3,6 @@
     echo "Nama : Muhammad Rivaldi \n";
     echo "Kelas : XI RPL 1 \n";
     echo "Asal Sekolah : SMK Taruna Bhakti \n";
-    echo "Alamat : Jl. Kawi 2 Kel. Abadijaya Kec. Sukmajaya";
+    echo "No Telp. : 085711142389 \n";
+    echo "email : mrivaldi2543@gmail.com";
 ?>
