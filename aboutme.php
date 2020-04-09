@@ -1,8 +1,8 @@
 <?php 
-    header('Content-type: text/plain');
-    echo "Nama : Muhammad Rivaldi \n";
-    echo "Kelas : XI RPL 1 \n";
-    echo "Asal Sekolah : SMK Taruna Bhakti \n";
-    echo "No Telp. : 085711142389 \n";
+    // header('Content-type: text/plain');
+    echo "Nama : Muhammad Rivaldi <br>";
+    echo "Kelas : XI RPL 1 <br>";
+    echo "Asal Sekolah : SMK Taruna Bhakti <br>";
+    echo "No Telp. : 085711142389 <br>";
     echo "email : mrivaldi2543@gmail.com";
 ?>
